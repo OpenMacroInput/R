@@ -1,6 +1,16 @@
+If you read this, it probably means that you were redirected for a QR code, a slide or else.
+
 Welcome to you.
 
-If you read this, it probably means that you used a QR code or a link on my visit card or a slide.
+# Call to Action
+
+For the year 2019-2023, I have been coding alone the project on the side. 
+For the year 2023-2024, I have been coding the project in a vision of producing a first generalist MVP
+For the year 2024-2025, I will need help to make it viable and used.
+For the year 2025-2030, I am going to require to start a company. 
+
+
+
 
 -----------------------------------------
 
