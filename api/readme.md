@@ -4,3 +4,11 @@ For the moment, you can do it by creating files in folder or send and receive UD
 
 Find more about it in the documentation:
 
+
+## Learn how to use the tool as a user
+
+https://github.com/OpenMacroInput/HowToUse
+
+## Learn how to interact as developer
+
+https://github.com/OpenMacroInput/r/tree/main/api
