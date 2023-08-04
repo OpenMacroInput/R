@@ -1,3 +1,10 @@
+Welcome to you.
+
+If you read this, it probably means that you used a QR code or a link on my visit card or a slide.
+
+-----------------------------------------
+
+
 I need help.
 We need help.
 
