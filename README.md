@@ -12,7 +12,7 @@ Learn about Eloi Stree :
 
 
 
-Be redirected to:
+## Be redirected to:
 - How to download the application
   - https://openmacroinput.github.io/r/download/
 - The documentation of Open Macro Input in general
