@@ -11,4 +11,4 @@ https://github.com/OpenMacroInput/HowToUse
 
 ## Learn how to interact as developer
 
-https://github.com/OpenMacroInput/r/tree/main/api
+https://github.com/OpenMacroInput/API/
