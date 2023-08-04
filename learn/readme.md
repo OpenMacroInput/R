@@ -1,6 +1,4 @@
-Learn readme.md
-
-
+Welcome to this redirection on how to use the tool OMI.
 
 # Learn how to use the tool
 https://github.com/OpenMacroInput/HowToUse
