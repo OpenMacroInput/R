@@ -24,3 +24,16 @@ Be redirected to:
 - https://openmacroinput.github.io/r/showcase/
 - https://openmacroinput.github.io/r/video/
  
+
+
+-----------------------------------------------------------------------------
+Landing page Open Macro Input: https://github.com/OpenMacroInput/OpenMacroInput
+
+Start a Unity Project: https://github.com/OpenMacroInput/OmiUnityGitsInstaller
+Documentation : (Doublons)
+- https://github.com/OpenMacroInput/Documentation/
+- https://github.com/OpenMacroInput/OpenMacroInputDocumentation
+  
+How to use OMI: https://github.com/OpenMacroInput/HowToUse
+
+DIY button for handicap situation: https://github.com/OpenMacroInput/Search_InabilityHelp
